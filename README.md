@@ -37,6 +37,8 @@ Class that cast a raypoint into a direction and return either the first object i
 # NormalPunch
 Class that controls normal attack for the player. A object that represent a arm punching is instantiated randomly on the player vision and causes damage to a enemy that is aiming at.
 
+![](Punches.gif)
+
 # PlanetDataEditor
 Class to show the planet gravity range and force through a wire disc handler
 
