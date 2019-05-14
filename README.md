@@ -11,6 +11,8 @@ Control a flying enemy moving towards the player all the way up to the last poin
 # Border detector
 Creates a button to detect the lower point of a object, at it's "feet", to determine wether or not an object is grounded to the floor in a non-plane surface
 
+![](BorderDetector.gif)
+
 # Camera shake
 Script that makes the camera shake through script
 
