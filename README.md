@@ -1,9 +1,12 @@
 # Unity-scripts-example
 Some of my work with unity scripts
+
 Mikael Poetsch
 
 # Basic flying follower and Bat controller
 Control a flying enemy moving towards the player all the way up to the last point it has seen the player then walks back the same path walked all the way back to it's origin point
+
+![](BatController.gif)
 
 # Border detector
 Creates a button to detect the lower point of a object, at it's "feet", to determine wether or not an object is grounded to the floor in a non-plane surface
