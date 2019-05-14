@@ -16,6 +16,8 @@ Creates a button to detect the lower point of a object, at it's "feet", to deter
 # Camera shake
 Script that makes the camera shake through script
 
+![](CameraShake.gif)
+
 # Character controller physics
 Script to update the gravity correctly to any object affected by gravity of a "planet" according to it's relative rotation
 
