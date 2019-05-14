@@ -24,6 +24,10 @@ Script to update the gravity correctly to any object affected by gravity of a "p
 # FPSWalkerEnhanced
 Script to make a FPS walker for the character on non-plane surfaces
 
+![](FPSWalker1.gif)
+
+![](FPSWalker2.gif)
+
 # GameCreator
 Script that takes a image file and uses the pixels collor to create a pac-man map
 
